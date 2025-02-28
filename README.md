@@ -4,7 +4,7 @@ Este é um projeto de treinamento em desenvolvimento web que visa criar um conta
 
 Este projeto faz parte do programa **3035Teach** da **3035 Tech**, que capacita futuros programadores, com o intuito de aprimorar as habilidades de desenvolvimento web moderno.
 
-Caso queira acessá-lo, clique [aqui](#) (link do projeto quando estiver hospedado).
+Caso queira acessá-lo, clique [aqui](https://felipecardosovargas.github.io/primeira-tarefa/).
 
 ## Descrição 📋
 
